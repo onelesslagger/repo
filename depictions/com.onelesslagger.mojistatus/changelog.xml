@@ -1,0 +1,28 @@
+<changelog>
+	<changes>
+		<version>1.1</version>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+		<change>Added support for stock status bar text combined with custom text.</change>
+		<change>Extra Goodies: Hide entire status bar.</change>
+		<change>Added Cephei for prefences.</change>
+		<version>1.0</version>
+		<change>Initial release</change>
+=======
+		<change>Add support for stock text combined with custom text/emoji.</change>
+		<change>Add Extra Goodies: Hide Status Bar</change>
+		<change>Add support for Cephei for preferences in settings (UI Change).</change>
+>>>>>>> Stashed changes
+=======
+		<change>Add support for stock text combined with custom text/emoji.</change>
+		<change>Add Extra Goodies: Hide Status Bar</change>
+		<change>Add support for Cephei for preferences in settings (UI Change).</change>
+>>>>>>> Stashed changes
+=======
+		<change>Add support for stock text combined with custom text/emoji.</change>
+		<change>Add Extra Goodies: Hide Status Bar</change>
+		<change>Add support for Cephei for preferences in settings (UI Change).</change>
+>>>>>>> Stashed changes
+	</changes>
+</changelog>
