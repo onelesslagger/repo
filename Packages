@@ -32,3 +32,19 @@ Author: OneLessLagger
 Depiction: https://onelesslagger.github.io/repo/depictions/?p=com.onelesslagger.mojistatus
 Name: MojiStatus
 
+Package: com.onelesslagger.percentnotify
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: OneLessLagger
+Installed-Size: 348
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis, preferenceloader, net.limneos.libbulletin
+Filename: ./debs/com.onelesslagger.percentnotify_1.0.0_iphoneos-arm.deb
+Size: 37994
+MD5sum: 5093723ae0754826c1e732b6f1c6f89b
+SHA1: ae0fe51b3259e9a407d1d001826f30a54253c801
+SHA256: 1927f0291fd5ad14be111f027b5ca7741308bb4a4c4f83bd9429a6ea12c89f29
+Section: Tweaks
+Description: Customize to receive battery alerts for your iPhone or AirPod.
+Author: OneLessLagger
+Name: PercentNotify
+
